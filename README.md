@@ -25,7 +25,7 @@ Pengguna dapat login menggunakan username dan password. Tersedia link ke halaman
 ### 📝 Register
 Form registrasi sederhana (Username, Email, Password) yang akan menyimpan data secara lokal (sementara).
 
-![Register Screen](screenshots/register.png)
+![Register Screen](https://github.com/user-attachments/assets/aebda8da-0d54-4b7f-ad2a-4d43d241e3e1)
 
 ### 🛍️ Galeri Produk
 Menampilkan daftar produk fashion dalam bentuk grid (2 kolom), lengkap dengan gambar dan nama produk. Tersedia tombol **Back**.
