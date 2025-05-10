@@ -13,6 +13,7 @@ Aplikasi Android sederhana berbasis Kotlin untuk menampilkan galeri produk pakai
 
 ### 🟣 Splash Screen
 Menampilkan logo NAFStore dengan animasi fade-in selama 2,5 detik.
+![Splash Screen](https://github.com/user-attachments/assets/65171f9b-ebed-4934-867f-90a934bbb15b)
 
 ### 🔐 Login
 Pengguna dapat login menggunakan username dan password. Tersedia link ke halaman registrasi.
