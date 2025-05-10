@@ -20,7 +20,7 @@ Menampilkan logo NAFStore dengan animasi fade-in selama 2,5 detik.
 ### 🔐 Login
 Pengguna dapat login menggunakan username dan password. Tersedia link ke halaman registrasi.
 
-![Login Screen](screenshots/login.png)
+![Login Screen](https://github.com/user-attachments/assets/e4ba1538-779b-4293-b862-c25baca264c4)
 
 ### 📝 Register
 Form registrasi sederhana (Username, Email, Password) yang akan menyimpan data secara lokal (sementara).
