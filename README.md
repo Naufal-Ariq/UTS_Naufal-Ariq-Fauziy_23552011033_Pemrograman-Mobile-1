@@ -30,7 +30,7 @@ Form registrasi sederhana (Username, Email, Password) yang akan menyimpan data s
 ### 🛍️ Galeri Produk
 Menampilkan daftar produk fashion dalam bentuk grid (2 kolom), lengkap dengan gambar dan nama produk. Tersedia tombol **Back**.
 
-![Gallery Screen](screenshots/gallery.png)
+![Gallery Screen](https://github.com/user-attachments/assets/5c62602f-5254-4062-9fa4-bafc3556ce9b)
 
 ## 🔧 Fitur Utama
 
